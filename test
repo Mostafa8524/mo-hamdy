@@ -1,0 +1,3 @@
+import os
+os_system("clear")
+print("Hello world")
